@@ -11,7 +11,7 @@ Prospective students evaluate number of different alternatives and options while
 
 ## 1. Ranking
 ## 2. Curriculum & MS degree comparison
-## 3.	Alumni profile
+## 3.	Alumni profile (No.of graduates working in top technology firms)
 ## 4.	Acceptance rate and student to faculty ratio of the Program
 ## 5.	Salaries related to the Data Analyst occupation in the field
 
@@ -32,9 +32,8 @@ One of the vital metrics is salaries indicator of MSIS graduates, who often sear
 
 Fig 1.1 is a clear to understand visual for the intended audience, which include prospective MSIS students interested in knowing the worth aand value of SCU graduates, also the recruiters who are looking to hire SCU grads can also better analyze the salary patterns of SCU MSIS graduates
 
-                                      Metric: Acceptance rate and student to faculty ratio of the Program
-                                      
-                                                          Fig 1.2
+                                Metric: Acceptance rate and student to faculty ratio of the Program
+                                                            Fig 1.2
                                                           
  <img width="974" alt="lab_8" src="https://user-images.githubusercontent.com/31932632/32687252-2db024ae-c66d-11e7-9929-1bb3998e3bc8.png">
 
@@ -45,5 +44,19 @@ Fig 1.1 is a clear to understand visual for the intended audience, which include
 Recruiters after noticing the fact that SCU MSIS program has a below average student to faculty ratio of 9% are most likely to be convinced of the quality of the SCU MSIS program. This can also show the recruiters that SCU MSIS program is very intensive and rigorous in  ensuring that students get focused and one-to-one guidance from faculty and advisors of the program.
 
 Another crucial criteria of evaluating SCU MSIS program is to analyze the acceptance rate and student to faculty ratio of the graduate degree. Santa Clara University has a very welcoming acceptance rate and thus motivating prospective students to consider and apply for admission. This is shown above in Tableau visual Fig 1.3.
+
+
+                                Metric:	Alumni profile (No.of graduates working in top technology firms)
+                                                         Fig 1.3
+                                                         
+<img width="1048" alt="lab_8" src="https://user-images.githubusercontent.com/31932632/32687251-2d95417a-c66d-11e7-9289-898c5793f49f.png">
+
+## Claim: SCU MSIS Alumni are working at top Silicon Valley firms
+
+## Warrant:
+
+ Recruiters would be highly impressed and their interest to hire SCU graduates would be further increased after looking at Fig 1.3 visual because it clearly shows that a reasonable no. of SCU MSIS graduates are working at top technology firm in Silicon Valley. Cisco, Google, Apple are some of the firms which hire SCU MSIS graduates indicating the quality and caliber of SCU MSIS program and its graduating students Another important metric is Fig 1.3 which shows the SCU Alumni profile and their location of residence. The tableau visual shows that a majority of SCU MSIS graduates are working for top Silicon Valley technology firms. This also indicates that recruiters and companies are interested in hiring SCU graduates, further highlighting the quality and recognition of the SCU MSIS program for the interested prospective students. Therefore, alumni profile is an important indicator for evaluating a certain graduate degree of a university under consideration.
+
+
 
 
