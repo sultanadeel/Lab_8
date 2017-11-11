@@ -9,11 +9,11 @@ https://public.tableau.com/profile/muhammad.adeel3420#!/vizhome/Lab_8SCU_MSIS_Me
 
 Prospective students evaluate number of different alternatives and options while considering and applying for a graduate degree admission. The most important metrics for choosing MSIS graduate program are: tuition fees, ranking, location, curriculum, alumni and post-graduation employment opportunities especially for the international students who want to realize their American dream and aspire to get hired by a leading tech firm in Silicon Valley. Five of the metrics to be used in our data visualization are as follows:
 
-# 1.  Ranking
-# 2.  Curriculum & MS degree comparison
-# 3.	Alumni profile
-# 4.	Post- graduation employment opportunities 
-# 5.	Salaries related to the Data Analyst occupation in the field
+## 1. Ranking
+## 2. Curriculum & MS degree comparison
+## 3.	Alumni profile
+## 4.	Post- graduation employment opportunities 
+## 5.	Salaries related to the Data Analyst occupation in the field
 
 Prospective students narrow down their ranking metrics to at least a top schools ranking in California. This metric is categorized to an extent and it further distinguishes among the public, regional, western and program related rankings. Students interested in the MSIS program at Santa Clara University, search for the rankings of the program and after selecting their choice, further evaluates the other metrics as mentioned above.
 When a prospective student selects Santa Clara University, they may also evaluate the curriculum and other options under the MS Degree Comparison webpage which I read in Python using Beautiful Soup package utilizing the HTML thread of the table. This metric is important because an international student has work related restrictions and privileges after graduation, however, MSIS program at SCU is a STEM extension approved program by the USCIS , therefore the MS comparison table on the SCU website is a decent metric for a prospective student.
