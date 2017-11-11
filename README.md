@@ -35,7 +35,7 @@ Fig 1.1 is a clear to understand visual for the intended audience, which include
                                 Metric: Acceptance rate and student to faculty ratio of the Program
                                                             Fig 1.2
                                                           
- <img width="974" alt="lab_8" src="https://user-images.githubusercontent.com/31932632/32687252-2db024ae-c66d-11e7-9929-1bb3998e3bc8.png">
+<img width="986" alt="lab_8" src="https://user-images.githubusercontent.com/31932632/32687571-637351f4-c674-11e7-89a0-ad074a8a4475.png">
 
 ## Claim: Despite having higher student acceptance rate, Santa Clara University has below average student to faculty ratio of 9%
 
