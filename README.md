@@ -5,7 +5,7 @@ Tableau Workbook
 https://public.tableau.com/profile/muhammad.adeel3420#!/vizhome/Lab_8SCU_MSIS_Metrics/SCUMSISDashboard?publish=yes
 
 
-## 5 metrics on the SCU MSIS program:
+### 5 metrics on the SCU MSIS program:
 
 Prospective students evaluate number of different alternatives and options while considering and applying for a graduate degree admission. The most important metrics for choosing MSIS graduate program are: tuition fees, ranking, location, curriculum, alumni and post-graduation employment opportunities especially for the international students who want to realize their American dream and aspire to get hired by a leading tech firm in Silicon Valley. Five of the metrics to be used in our data visualization are as follows:
 •	Ranking
