@@ -49,7 +49,8 @@ Another crucial criteria of evaluating SCU MSIS program is to analyze the accept
                                 Metric:	Alumni profile (No.of graduates working in top technology firms)
                                                          Fig 1.3
                                                          
-<img width="1048" alt="lab_8" src="https://user-images.githubusercontent.com/31932632/32687251-2d95417a-c66d-11e7-9289-898c5793f49f.png">
+<img width="974" alt="lab_8" src="https://user-images.githubusercontent.com/31932632/32687572-63898ff0-c674-11e7-925e-b46a6cfa7c04.png">
+
 
 ## Claim: SCU MSIS Alumni are working at top Silicon Valley firms
 
