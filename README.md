@@ -59,5 +59,12 @@ Another crucial criteria of evaluating SCU MSIS program is to analyze the accept
  Recruiters would be highly impressed and their interest to hire SCU graduates would be further increased after looking at Fig 1.3 visual because it clearly shows that a reasonable no. of SCU MSIS graduates are working at top technology firm in Silicon Valley. Cisco, Google, Apple are some of the firms which hire SCU MSIS graduates indicating the quality and caliber of SCU MSIS program and its graduating students Another important metric is Fig 1.3 which shows the SCU Alumni profile and their location of residence. The tableau visual shows that a majority of SCU MSIS graduates are working for top Silicon Valley technology firms. This also indicates that recruiters and companies are interested in hiring SCU graduates, further highlighting the quality and recognition of the SCU MSIS program for the interested prospective students. Therefore, alumni profile is an important indicator for evaluating a certain graduate degree of a university under consideration.
 
 
+# Future RoadMap for further Improvement:
+
+My visualizations for SCU MSIS Metrics are intended towards the audience including prospective MSIS students. The existing metrics and 
+visuals could be further improved by integrating the different metrics and visuals using a one combined metric and showing metrics like
+tuition fees, rankings and expected salaries post graduation in a single X and Y-axis embedded in a Tableau Visual
+
+
 
 
