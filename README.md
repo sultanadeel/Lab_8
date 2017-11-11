@@ -23,4 +23,10 @@ One of the vital metrics is salaries indicator of MSIS graduates, who often sear
                                                             
 <img width="650" alt="lab_8" src="https://user-images.githubusercontent.com/31932632/32687250-2d7e977c-c66d-11e7-8180-55a92f719841.png">
 
+## Claim: SCU MSIS graduates earn decent salaries 
+
+## Warrant: 
+
+Fig 1.1 is a clear to understand visual for the intended audience, which include prospective MSIS students interested in knowing the worth aand value of SCU graduates, also the recruiters who are looking to hire SCU grads can also better analyze the salary patterns of SCU MSIS graduates
+
 
